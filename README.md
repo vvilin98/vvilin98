@@ -27,6 +27,7 @@
 <div align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="bash" width="" height="40"/></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://allure.qatools.ru/" target="_blank"> <img src="https://allurereport.org/public/img/allure-report.svg" alt="bash" width="" height="40"/></a>
 </div>
 
 <div align="center"> 
