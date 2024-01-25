@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Привет 👋 Меня зовут Виталий Ильин и я QA Engineer <p align="right"> [![Telegram Badge](https://img.shields.io/badge/-v_ilin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v_ilin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vvilin98@yandex.ru) ![codewars](https://www.codewars.com/users/vvilin98/badges/micro) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vvilin98) </p>
+  # Привет 👋 Меня зовут Виталий Ильин и я QA Engineer <p align="right"> [![GitHub stargazers](https://img.shields.io/github/stars/vvilin98?label=stars&style=social)](https://github.com/vvilin98/vvilin98/) [![Telegram Badge](https://img.shields.io/badge/-v_ilin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v_ilin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vvilin98@yandex.ru) ![codewars](https://www.codewars.com/users/vvilin98/badges/micro) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vvilin98) </p>
   </div>
 
 <div align="center">
