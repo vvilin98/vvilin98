@@ -1,0 +1,33 @@
+name: daily-metrics
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 21 * * *"
+
+jobs:   
+  stats:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - name: github-metrics
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          user: vvilin98
+          template: classic
+          base: header, activity
+          config_timezone: Europre/Moscow
