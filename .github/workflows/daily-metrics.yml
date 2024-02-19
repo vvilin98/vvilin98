@@ -1,4 +1,5 @@
 name: daily-metrics
+
 on:
   workflow_dispatch:
   push:
@@ -10,15 +11,9 @@ on:
 jobs:   
   stats:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
     steps:
-      - name: github-metrics
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
@@ -29,5 +24,5 @@ jobs:
           # Options
           user: vvilin98
           template: classic
-          base: header, activity
+          base: header
           config_timezone: Europre/Moscow
