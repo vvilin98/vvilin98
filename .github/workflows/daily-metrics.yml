@@ -24,5 +24,5 @@ jobs:
           # Options
           user: vvilin98
           template: classic
-          base: header, activity
+          base: header
           config_timezone: Europre/Moscow
