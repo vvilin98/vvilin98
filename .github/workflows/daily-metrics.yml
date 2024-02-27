@@ -9,7 +9,7 @@ on:
     - cron: "0 21 * * *"
 
 jobs:   
-  stats:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -26,3 +26,27 @@ jobs:
           template: classic
           base: header
           config_timezone: Europre/Moscow
+  
+  metrics_languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: github-metrics
+          committer_message: "build: update `${filename}`"
+
+          # Options
+          filename: metrics.languages.svg
+          user: vvilin98
+          config_timezone: Europre/Moscow
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_limit: 4
+          base: ""
+          config_timezone: Europre/Moscow
+          
