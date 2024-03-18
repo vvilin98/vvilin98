@@ -14,7 +14,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-v_ilin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v_ilin)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vvilin98@yandex.ru) 
 ![codewars](https://www.codewars.com/users/vvilin98/badges/micro)
 ![Metrics](https://raw.githubusercontent.com/vvilin98/vvilin98/github-metrics/github-metrics.svg)
-> Обеспечиваю качества поставляемого продукта уже как два с половиной года. За это время успел подняться с Trainee до Middle Manual QA. Активно расширяю свои hard skills, на данный момент изучаю возможности AQA на Python. Не боюсь сложных задач
+> Обеспечиваю качества поставляемого продукта уже как два с половиной года. За это время успел подняться с Trainee до Middle Manual QA. Активно расширяю свои hard skills, на данный момент изучаю возможности AQA на Python. Не боюсь сложных задач.
 <div align="center"> 
   
   ### My Skill Set 
