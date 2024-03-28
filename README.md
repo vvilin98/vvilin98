@@ -1,5 +1,5 @@
 # 
-<a href="https://dly.to" target="_blank">
+<a href="https://app.daily.dev/vvilin98" target="_blank">
   <img
     width="222"
     align="left"
@@ -13,7 +13,7 @@
 ### Обо мне
 [![Telegram Badge](https://img.shields.io/badge/-v_ilin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/v_ilin)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vvilin98@yandex.ru) [![codewars](https://www.codewars.com/users/vvilin98/badges/micro)](https://www.codewars.com/users/vvilin98)
 
-![Metrics](https://raw.githubusercontent.com/vvilin98/vvilin98/github-metrics/github-metrics.svg)
+[![Metrics](https://raw.githubusercontent.com/vvilin98/vvilin98/github-metrics/github-metrics.svg)](https://github.com/vvilin98/vvilin98/blob/main/.github/workflows/daily-metrics.yml)
 > Обеспечиваю качество поставляемого продукта уже как два с половиной года. За это время успел подняться с Trainee до Middle Manual QA. Активно расширяю свои hard skills, на данный момент изучаю возможности AQA на Python. Не боюсь сложных задач.
 
 #
@@ -41,6 +41,6 @@
 <div align="right">
 
   [![GitHub stargazers](https://img.shields.io/github/stars/vvilin98?label=stars&style=social)](https://github.com/vvilin98/vvilin98/stargazers)
-  ![Github-devcard](https://github.com/vvilin98/vvilin98/actions/workflows/daily-devcard.yml/badge.svg)
+  [![Github-devcard](https://github.com/vvilin98/vvilin98/actions/workflows/daily-devcard.yml/badge.svg)](https://github.com/vvilin98/vvilin98/blob/main/.github/workflows/daily-devcard.yml)
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vvilin98)
 </div>
