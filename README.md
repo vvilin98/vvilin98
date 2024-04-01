@@ -38,6 +38,13 @@
   </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python             4 hrs 19 mins   █████████████████████████   99.94 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 # 
