@@ -1,0 +1,25 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 21 * * *"
+
+jobs:
+  waka-time:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: waka
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          commit_branch: waka-time
+          commit_message: "chore: update ${filename}"
+          
