@@ -37,6 +37,9 @@
   <a href="https://allure.qatools.ru/" target="_blank"> <img src="https://allurereport.org/public/img/allure-report.svg" alt="allure-testops" width="30" height="30" /></a>
   </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 
 <div align="right">
 
