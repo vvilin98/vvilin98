@@ -1,7 +1,6 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   push:
     branches:
@@ -17,7 +16,7 @@ jobs:
       contents: write
     steps:
       - name: waka
-      - uses: athul/waka-readme@master # this action name
+        uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           commit_branch: waka-time
