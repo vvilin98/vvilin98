@@ -40,9 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             4 hrs 19 mins   █████████████████████████   99.94 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     2 hrs 33 mins   █████████████████████████   99.90 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
