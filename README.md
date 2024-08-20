@@ -40,9 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```Python,YAML
-Python             1 hr 32 mins    ████████████████████████▓   98.26 %
-Text               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
