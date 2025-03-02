@@ -40,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```Python,YAML
-Python     54 mins         ████████████████████████▓   99.04 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
